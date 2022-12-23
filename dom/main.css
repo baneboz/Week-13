@@ -1,0 +1,18 @@
+.list--bg {
+  background-color: #ccc;
+}
+.item--bg {
+  background-color: aquamarine;
+}
+.item--transform {
+  background-color: maroon;
+  text-transform: uppercase;
+}
+.active {
+  background-color: #666;
+  color: #fff;
+  font-weight: bold;
+}
+.error {
+  border: 2px solid red;
+}
